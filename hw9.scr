@@ -1,0 +1,37 @@
+Script started on Wed 13 Mar 2019 12:48:59 AM PDT
+]0;cs1c@cs1c-VirtualBox ~/Downloads/HW09/hw09/hw09[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Downloads/HW09/hw09/hw09 $[00m date
+Wed Mar 13 00:49:00 PDT 2019
+]0;cs1c@cs1c-VirtualBox ~/Downloads/HW09/hw09/hw09[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Downloads/HW09/hw09/hw09 $[00m ls 0[K-l
+total 8
+-rw-rw-r-- 1 cs1c cs1c 3578 Mar 13 00:42 hw09.cpp
+-rw-rw-r-- 1 cs1c cs1c    0 Mar 13 00:48 hw9.scr
+-rw-rw-r-- 1 cs1c cs1c  216 Mar 11 10:01 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Downloads/HW09/hw09/hw09[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Downloads/HW09/hw09/hw09 $[00m make all
+g++ -g hw09.cpp -o hw09
+]0;cs1c@cs1c-VirtualBox ~/Downloads/HW09/hw09/hw09[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Downloads/HW09/hw09/hw09 $[00m ls -l
+total 40
+-rwxrwxr-x 1 cs1c cs1c 28800 Mar 13 00:49 [0m[01;32mhw09[0m
+-rw-rw-r-- 1 cs1c cs1c  3578 Mar 13 00:42 hw09.cpp
+-rw-rw-r-- 1 cs1c cs1c     0 Mar 13 00:48 hw9.scr
+-rw-rw-r-- 1 cs1c cs1c   216 Mar 11 10:01 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Downloads/HW09/hw09/hw09[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Downloads/HW09/hw09/hw09 $[00m .[K./hw09
+Instantiate a Rectangle:
+Enter length of rectangle: 4
+Enter width of rectangle: 8
+
+Instantiate a Triangle:
+Enter side 1 of Triangle: 2
+Enter side 2 of Triangle: 5
+Enter side 3 of Triangle: 7
+
+Perimeter and Area of Rectangle:
+Perimeter: 24
+Area: 32
+
+Perimeter and Area of Triangle: 
+Perimeter: 14
+Area: 0
+]0;cs1c@cs1c-VirtualBox ~/Downloads/HW09/hw09/hw09[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Downloads/HW09/hw09/hw09 $[00m exit
+exit
+
+Script done on Wed 13 Mar 2019 12:49:23 AM PDT
